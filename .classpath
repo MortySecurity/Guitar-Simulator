@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="lib" path="/Users/mourtadah/Desktop/GuitarLib.jar"/>
+	<classpathentry kind="lib" path="/Users/mourtadah/Documents/Winter_2017_Algonquin/Fall_2017_Algonquin/Karim_Mourtadah_CST8132_Lab3/library/GuitarLib.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
