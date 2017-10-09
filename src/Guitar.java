@@ -9,7 +9,7 @@ public class Guitar {
 	Peg[] peg;
 
 	public Guitar() {
-		wire = new Wire[6]; //instantiating wire as an array
+		wire = new Wire[6]; 
 		peg = new Peg[6]; // instantiating peg as an array
 		//an array of 6 strings (0-5)
 
